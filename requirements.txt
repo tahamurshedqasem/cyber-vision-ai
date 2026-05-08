@@ -242,3 +242,12 @@ wordcloud==1.9.4
 xgboost==2.0.3
 xxhash==3.5.0
 yarl==1.20.1
+
+flask
+flask-cors
+numpy
+pandas
+scikit-learn
+tensorflow
+joblib
+gunicorn
